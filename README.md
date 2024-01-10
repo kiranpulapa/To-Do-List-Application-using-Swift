@@ -23,5 +23,3 @@ The goal of this project is to create a fully functional to-do list application 
 ### Local Storage 💾
 - Utilize local storage to save tasks, ensuring user data is preserved between sessions for a seamless experience and preventing data loss.
 
-![Simulator Screenshot - iPhone 15 Pro -2024-01-10 at 06 43 52 png](https://github.com/kiranpulapa/To-Do-List-Application-using-Swift/assets/95897843/bb539553-3b8c-4770-9c38-02ef91b52416)
-
